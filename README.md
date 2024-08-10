@@ -1,7 +1,3 @@
-Sure! Here's a detailed README for your Next.js app that utilizes Firestore and Material UI:
-
----
-
 # Pantry Tracker
 
 Pantry Tracker is a web application built with Next.js, Firebase Firestore, and Material UI. It helps you keep track of your pantry items, including their names, quantities, and types.
